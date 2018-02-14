@@ -1,4 +1,4 @@
-// Version 1.1:
+// 20180214 Version 1.1:
 // Bluetooth-String geändert, er beginnt nun mit dem Start-Byte "A"
 // Variablen für Baud-Raten für die serielle Übertragung ergänzt
 // Variablen für Häufigkeit der seriellen Übertragung (maximaler Counter-Wert) ergänzt
